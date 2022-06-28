@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalWebsite",
-  "homepage": "https://JRan-37.github.io",
+  "homepage": "https://jran-37.github.io/PortfolioWebsite/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
