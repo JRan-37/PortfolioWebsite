@@ -9,6 +9,7 @@
 
 .contact-heading-div {
   display: flex;
+  align-items: center;
 }
 
 .blog-heading-div {
@@ -33,7 +34,7 @@
 }
 
 .contact-heading-img-div {
-  margin-left: 13%;
+  margin-left: 8%;
   margin-bottom: 8%;
   margin-top: 4%;
 }
@@ -51,6 +52,8 @@
 
 .contact-heading-text-div {
   text-align: center;
+  margin-bottom: 5%;
+  margin-right: 8%;
 }
 
 .blog-heading-text-div {

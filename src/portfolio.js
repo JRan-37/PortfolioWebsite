@@ -285,8 +285,8 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "None Yet",
-      subtitle: "But soon to come",
+      title: "MongoDB Certification",
+      subtitle: "In Progress",
       logo_path: "mongo.png",
       certificate_link:
         "https://www.mongodb.com/",
