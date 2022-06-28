@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "Java Full Stack Developer, Unity Game Developer. Every problem has a solution once you solve the given puzzle before you.",
   resumeLink:
-    "https://www.linkedin.com/in/jonathan-randolph-184729166/overlay/1635480855109/single-media-viewer/",
+    "https://www.linkedin.com/in/jonathan-randolph-184729166/overlay/1635494454947/single-media-viewer/",
   mail: "mailto:jran2400@gmail.com",
 };
 
@@ -316,19 +316,17 @@ const experience = {
           location: "Remote Work",
           description:
           `Completed assignments using Core Java fundamentals - Loops, Arrays, Collections, Classes, OOP, Exceptions, IO Files, Functional Programming
-          Built several individual projects such as Humans vs Goblins, Tic-tac-toe, and Battleship using Java and applying Java concepts
+          Built several individual projects such as Humans vs Goblins using Java and applying Java concepts.
           
-          Created the backend of an application with Java, Spring Boot, and using Hibernate to link a MySQL database
+          Created the backend of an application with Java, Spring Boot, and using Hibernate to link a MySQL database.
           
-          Learned the fundamentals of Angular development including modules, components, services and DI, templates, event binding, and routing
+          Studied the fundamentals of React development including components, properties, events, and fetching data from a Spring Boot API backend.
           
-          Studied the fundamentals of React development including components, properties, events, and fetching data from a Spring Boot API backend
+          Built a restaurant website, user login system,  payment logging and rewards system using Java, Spring Boot, Hibernate, MySQL, and React.
           
-          Built an Employee Management System using Java, Spring Boot, Hibernate, MySQL, and React
+          Completed an AWS Module to learn the fundamentals of Cloud Computing, Foundational and Compute Services, Storage and Content Delivery, Security, and AWS Management.
           
-          Completed an AWS Module to learn the fundamentals of Cloud Computing, Foundational and Compute Services, Storage and Content Delivery, Security, and AWS Management
-          
-          Built personal profile with React / Angular and hosted it using AWS`,
+          Built personal profile with React.`,
           color: "#ee3c26",
         },
         {
