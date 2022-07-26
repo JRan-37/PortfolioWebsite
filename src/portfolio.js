@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "Java Full Stack Developer, Unity Game Developer. Every problem has a solution once you solve the given puzzle before you.",
   resumeLink:
-    "https://www.linkedin.com/in/jonathan-randolph-184729166/overlay/1635494454947/single-media-viewer/",
+    "https://docs.google.com/document/d/1wjbe1HqJVFL-MaX9PQpgUOfSNGd5tRYfL--y72KfKgE/edit?usp=sharing",
   mail: "mailto:jran2400@gmail.com",
 };
 
@@ -350,7 +350,7 @@ const experience = {
           company: "CIP-PL",
           company_url: "https://cipplguinea.com/",
           logo_path: "CIPPL.png",
-          duration: "Apr 2020 - Nov 2020",
+          duration: "Apr 2020 - Nov 2021",
           location: "Work From Home",
           description:
           `Checked computer hardware (HDD, mouse, keyboards etc.) to ensure functionality.
@@ -368,15 +368,15 @@ const experience = {
       title: "Activities & Honors",
       experiences: [
         {
-          title: "Community Center Volunteer",
-          company: "Plum Community Center",
-          company_url: "https://www.plumcommunitycenter.com/",
-          logo_path: "At-PCC-Logo.svg",
-          duration: "June 2014 - Aug 2014",
-          location: "Plum, PA",
+          title: "Club Member",
+          company: "Pitt ACM",
+          company_url: "https://www.meetup.com/ACM-Pittsburgh/",
+          logo_path: "University_of_Pittsburgh_seal.svg",
+          duration: "Sep 2016 - Present",
+          location: "Pittsburgh, PA",
           description:
-            "Landscaping, Cooking, Cleaning, assisting with programs and events",
-          color: "#4285F4",
+          "Non-profit professional group that meets regularly to discuss diverse topics in computer science.",
+          color: "#040f26",
         },
         {
           title: "Voter Registration Volunteer",
@@ -389,16 +389,16 @@ const experience = {
           color: "#196acf",
         },
         {
-          title: "Club Member",
-          company: "Pitt ACM",
-          company_url: "https://www.meetup.com/ACM-Pittsburgh/",
-          logo_path: "University_of_Pittsburgh_seal.svg",
-          duration: "Sep 2016 - Present",
-          location: "Pittsburgh, PA",
+          title: "Community Center Volunteer",
+          company: "Plum Community Center",
+          company_url: "https://www.plumcommunitycenter.com/",
+          logo_path: "At-PCC-Logo.svg",
+          duration: "June 2014 - Aug 2014",
+          location: "Plum, PA",
           description:
-          "Non-profit professional group that meets regularly to discuss diverse topics in computer science.",
-          color: "#040f26",
-        },
+            "Landscaping, Cooking, Cleaning, assisting with programs and events",
+          color: "#4285F4",
+        },      
       ],
     },
   ],
