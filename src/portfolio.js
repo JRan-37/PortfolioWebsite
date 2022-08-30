@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "Java Full Stack Developer, Unity Game Developer. Every problem has a solution once you solve the given puzzle before you.",
   resumeLink:
-    "https://docs.google.com/document/d/1wjbe1HqJVFL-MaX9PQpgUOfSNGd5tRYfL--y72KfKgE/edit?usp=sharing",
+    "https://docs.google.com/document/d/1EUDZCd9bd6H5ylbnuenhZRIrkJ5-VySH1-qbaYiMGEM/edit?usp=sharing",
   mail: "mailto:jran2400@gmail.com",
 };
 
